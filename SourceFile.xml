@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2020-02-20T13:41:38Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16040</WindowHeight>
+  <WindowWidth>26660</WindowWidth>
+  <WindowTopX>1760</WindowTopX>
+  <WindowTopY>1460</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">X_NIC</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ACCOUNT_REFERENCE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CURRENCY_CODE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SCENARIO_VALUATION</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CONTRACT_CODE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ACCOUNT_CODE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ACCOUNT_TYPE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AGGREGATION_TYPE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CLIENT_IDENTIFIER_TYPE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ACCOUNT_REFERENCE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">IU</Data></Cell>
+    <Cell><Data ss:Type="String">SD</Data></Cell>
+    <Cell><Data ss:Type="Number">13.5</Data></Cell>
+    <Cell><Data ss:Type="String">1SA2</Data></Cell>
+    <Cell><Data ss:Type="String">SS</Data></Cell>
+    <Cell><Data ss:Type="String">TEST</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="String">EN</Data></Cell>
+    <Cell><Data ss:Type="String">A1</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
